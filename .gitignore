@@ -1,0 +1,17 @@
+.vscode
+
+server/.vscode
+server/pnpm-lock.yaml
+server/node_modules/
+server/dist/
+server/.vercel
+server/.env
+
+
+mobile/.vscode
+mobile/.expo
+mobile/.expo-shared
+expo-env.d.ts
+mobile/node_modules/
+
+infra/.vscode
